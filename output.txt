@@ -1,0 +1,10 @@
+hello : {test1.txt=[1, 1, 1, 1, 2, 2, 2, 2] (count=8)}
+is : {test1.txt=[1, 1, 1, 1] (count=4)}
+it's : {test1.txt=[2, 2, 2, 2] (count=4)}
+kitty : {test1.txt=[1, 1, 1, 1, 2, 2, 2, 2] (count=8)}
+meet : {test1.txt=[2, 2, 2, 2] (count=4)}
+my : {test1.txt=[1, 1, 1, 1] (count=4)}
+name : {test1.txt=[1, 1, 1, 1] (count=4)}
+nice : {test1.txt=[2, 2, 2, 2] (count=4)}
+to : {test1.txt=[2, 2, 2, 2] (count=4)}
+you : {test1.txt=[2, 2, 2, 2] (count=4)}
