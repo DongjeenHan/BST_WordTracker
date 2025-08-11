@@ -13,7 +13,7 @@ import java.util.*;
 
 public class WordTracker {
 
-    // name of the binary repo file
+    // name of the binary repo file..
     private static final String REPO_NAME = "repository.ser";
 
     // the tree will store WordEntry objects ordered by the word
